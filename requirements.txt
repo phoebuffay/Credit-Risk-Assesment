@@ -1,6 +1,7 @@
 streamlit
 pandas
 numpy
+joblib
 matplotlib
 plotly
 reportlab
