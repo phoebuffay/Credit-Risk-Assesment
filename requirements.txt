@@ -5,6 +5,6 @@ joblib
 matplotlib
 plotly
 reportlab
-scikit-learn
+scikit-learn==1.6.1
 xgboost
 pathlib
