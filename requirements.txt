@@ -1,7 +1,7 @@
 streamlit
 pandas
 numpy
-joblib
+joblib==1.5.3
 matplotlib
 plotly
 reportlab
